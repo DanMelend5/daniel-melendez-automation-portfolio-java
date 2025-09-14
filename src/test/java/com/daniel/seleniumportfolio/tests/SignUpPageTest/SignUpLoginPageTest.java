@@ -1,12 +1,8 @@
-package com.automationexercise.pageobjects.SignUpPageTest;
+package com.daniel.seleniumportfolio.tests.SignUpPageTest;
 
-import com.automationexercise.pageobjects.BasePageTest;
-import com.automationexercise.pageobjects.HomePage;
-import com.automationexercise.pageobjects.SignUpLoginPage;
-import org.testng.Assert;
+import com.daniel.seleniumportfolio.tests.BasePageTest;
+import com.daniel.seleniumportfolio.tests.HomePage;
 import org.testng.annotations.Test;
-
-import java.sql.Driver;
 
 public class SignUpLoginPageTest extends BasePageTest {
 

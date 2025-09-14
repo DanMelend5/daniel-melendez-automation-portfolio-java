@@ -1,7 +1,7 @@
-package com.automationexercise.pageobjects.HomePageTest;
+package com.daniel.seleniumportfolio.tests.HomePageTest;
 
-import com.automationexercise.pageobjects.BasePageTest;
-import com.automationexercise.pageobjects.HomePage;
+import com.daniel.seleniumportfolio.tests.BasePageTest;
+import com.daniel.seleniumportfolio.tests.HomePage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
