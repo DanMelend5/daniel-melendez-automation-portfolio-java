@@ -1,4 +1,4 @@
-package com.automationexercise.pageobjects;
+package com.daniel.seleniumportfolio.tests;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

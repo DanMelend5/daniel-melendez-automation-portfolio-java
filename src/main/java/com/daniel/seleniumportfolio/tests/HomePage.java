@@ -1,4 +1,4 @@
-package com.automationexercise.pageobjects;
+package com.daniel.seleniumportfolio.tests;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
