@@ -20,7 +20,9 @@ public class HomePage extends BasePage {
             return  isDisplay(automationExerciseCarousel);
     }
 
-    public void clickSignUpLoginButton() {
+
+    public LoginPage clickSignUpLoginButton() {
         driver.findElement(clickSignUpLoginButton).click();
+        return new LoginPage(driver);
     }
 }
