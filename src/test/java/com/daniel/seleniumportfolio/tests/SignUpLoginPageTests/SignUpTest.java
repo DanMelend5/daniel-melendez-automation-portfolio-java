@@ -37,7 +37,7 @@ public class LoginPageTest extends BasePageTest {
         //Verify that 'ENTER ACCOUNT INFORMATION' is visible
         SignUpPage signUpPage = loginPage.createNewUser("Wakanda", "waki@email.com");
         Assert.assertTrue(signUpPage.isEnterAccountMessageLocatorDisplay());
-
+        signUpPage.clickMrTitleRadioLocator();
 
     }
 }
